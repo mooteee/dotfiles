@@ -100,7 +100,7 @@ const bookmarks = [
       {
         id: "nRFdEzm5AuBo28G9",
         label: "Github",
-        url: "https://github.com/mooteee",
+        url: "https://github.com/M00t3",
       },
     ],
   },

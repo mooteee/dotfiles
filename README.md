@@ -11,7 +11,7 @@ This repository contains my personal dotfiles. They are managed using [GNU Stow]
 Clone this repository into your home directory.
 
 ```bash
-git clone https://github.com/mooteee/dotfiles.git ~/.dotfiles
+git clone https://github.com/M00t3/dotfiles.git ~/.dotfiles
 ```
 
 Navigate to the dotfiles directory.
